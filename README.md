@@ -20,5 +20,5 @@ You can find out more about my projects on this page and ask me questions on <a 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ###
-I strive for perfection in every line of code. </br>Let's build amazing experiences together! 🚀
+<h4>Let's build amazing experiences together! 🚀</h4>
 
