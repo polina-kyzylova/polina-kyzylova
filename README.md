@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Polina 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend developer</h3>
-
 
 ###
 <h4>About:</h4>
