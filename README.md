@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Polina 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="36px" width="36px" />
+</h1>
 
 ###
 <h4>About:</h4>
