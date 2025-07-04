@@ -5,7 +5,7 @@
 <h4>About:</h4>
 I am interested in computer technology and enjoy challenging myself to create new projects and learn new tools.</br> 
 I want to grow my professional skills by working with experienced developers. 
-You can find out more about my projects on this page and ask me questions on <a href="https://t.me/kyzylovapa">Telegram</a> or <a href="mailto:kyzylovapa@mail.ru">Email</a>.
+You can find out more about my projects on this page and ask me questions on <a href="https://t.me/pollumnna">Telegram</a> or <a href="mailto:kyzylovapa@mail.ru">Email</a>.
 
 <h4>Skills:</h4>
 
